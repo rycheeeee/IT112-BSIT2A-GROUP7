@@ -1,0 +1,2 @@
+include ':DataPersistence'
+rootProject.name='SqliteTutorial'

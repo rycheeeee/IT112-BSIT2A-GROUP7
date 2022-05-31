@@ -1,1 +1,3 @@
-# IT112-BSIT2A-GROUP7
+SQLite + Android - Complete Tutorial
+
+Note: Video tutorials will be available on my Youtube channel (Stevdza-San) soon.
